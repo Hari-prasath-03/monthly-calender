@@ -11,6 +11,10 @@ body {
   background-color: #555;
 }
 
+::-webkit-scrollbar {
+  display: none;
+}
+
 .calender {
   width: 400px;
   background-color: #fff;
